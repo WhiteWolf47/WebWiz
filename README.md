@@ -1,5 +1,8 @@
 # Webwiz
 
+### WebWiz Agent Graph:
+![Agent Graph](schema_diagram/agent_schema.png)
+
 ### How to run
 1. **Clone the Repo:**
    ```bash
