@@ -1,5 +1,7 @@
 # Webwiz
 
+WebWiz is a multi-agentic web search agent which uses LangGraph to implement agentic workflow to give you the best web search results. It is comprised of various agents and tools like Planner, websearch, Researcher, Scraping, Reporter, Reviewer tool. It is compatible with OpenAI, Gemini, Cluade and Groq. It even has a chainlit frontend.
+
 ### WebWiz Agent Graph:
 ![Agent Graph](schema_diagram/agent_schema.png)
 
